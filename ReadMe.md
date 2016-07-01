@@ -4,7 +4,7 @@
 
 
 截图：
-![Restlet](./restlet.png)
+![Restlet](./ScreenImage/restlet.png)
 
 
 
@@ -98,7 +98,7 @@ http://localhost:8182/adages/xml/1
 
 
 截图：
-![以jar文件运行webservice](./jar.png)
+![以jar文件运行webservice](./ScreenImage/jar.png)
 
 
 2.在tomcat中运行。
