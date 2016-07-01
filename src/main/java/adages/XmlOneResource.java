@@ -23,6 +23,7 @@ public class XmlOneResource extends ServerResource {
     }
 
 
+//    响应get请求，并返回xml
     @Get
     public Representation toXml(){
 
