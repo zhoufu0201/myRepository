@@ -5,11 +5,10 @@ package adages;
  */
 public class Adage {
 
-    private String words;
+    private String words;  //一行字符串
+    private int wordCount;// 一行字符串单词的个数
+    private int id; //每行的行号
 
-    private int wordCount;
-
-    private int id;
 
 
     public Adage() {
