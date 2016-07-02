@@ -3,6 +3,8 @@
 ##Restlet 写的 Restful webservice demo（A demo of restful webservice is written by Restlet Framework ）
 
 
+见[《webservice笔记4——Restlet开发restful webservice教程》](http://www.dabu.info/webservice-restful-use-restlet.html)
+
 截图：
 ![Restlet](./ScreenImage/restlet.png)
 
