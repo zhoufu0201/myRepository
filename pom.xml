@@ -36,7 +36,7 @@
         </repository>
     </repositories>
     <properties>
-        <restlet-version>2.3.4</restlet-version>
+        <restlet-version>2.3.12</restlet-version>
     </properties>
 
     <dependencies>
